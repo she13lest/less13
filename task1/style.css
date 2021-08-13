@@ -1,8 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+
 .mountains {
   width: 300px;
   height: 500px;
   background-image: url(nature.jpeg);
-  background-position: center;
+  background-position: centgit add .
+  er;
   background-size: cover;
   font-size: 32px;
   font-weight: 700;
