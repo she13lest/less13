@@ -6,7 +6,7 @@
   font-family: Arial, Helvetica, sans-serif;
   font-weight: 700;
   font-size: 96px;
-  background: linear-gradient(45deg, #ff0000, #ffff00);
+  background: linear-gradient(45deg, #ffff00, #ff0000);
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
 }
