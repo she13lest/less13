@@ -4,10 +4,11 @@
 
 .gallery {
   margin: 0;
+  display: flex;
 }
 
 .image {
-  display: inline-block;
+
   width: 200px;
   height: 200px;
   margin: 16px;
